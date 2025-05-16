@@ -1,1 +1,1 @@
-# Uni---Bi---MultiVariate-Analysis-Using-Iris-Species-Dataset
+# Uni-Bi-MultiVariate-Analysis-Using-Iris-Species-Dataset
